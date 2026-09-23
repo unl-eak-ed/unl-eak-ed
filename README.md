@@ -1,3 +1,5 @@
+<img alt="epic gif" src="epic.gif" width="100%">
+
 ```
                                                                                             
                                        ..:::------:.                                        
@@ -62,5 +64,3 @@
                                ..::::-:.::::........::.......                               
                                                                                             
 ```
-
-<img alt="epic gif" src="epic.gif" width="100%">
